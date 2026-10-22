@@ -9,7 +9,7 @@
 | Person / group | Responsibility in this project |
 |---|---|
 | Kalvin Karl Nonato | Back-end API; data model, identifiers, business rules, validation, status history, and reporting endpoints |
-| Manolita Cabactulan | Front-end; user workflows, data-entry screens, search, alerts, and dashboards |
+| Manolito Cabactulan Jr | Front-end; user workflows, data-entry screens, search, alerts, and dashboards |
 | Bernadette Dela Cruz | System analyst; process validation, requirements, data definitions, acceptance criteria, and stakeholder coordination |
 | Solana Police Station (PNP) | Operational owner; validates source records, jurisdiction, statuses, assignments, and operational access |
 | LGU Solana | Project partner; supports only the responsibilities and data access formally agreed with PNP and CSU |
